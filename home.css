@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: gray;
-    color: #333;
+    background: linear-gradient(to left, #0f1e22, #000000);
+    color:rgb(8, 196, 8);
   }
   .container {
     max-width: 800px;
@@ -27,6 +27,7 @@ body {
     list-style: none;
     padding: 0;
     text-align: left;
+    font-size: 20px;
   }
   
   .cta-buttons {
@@ -46,5 +47,10 @@ body {
   
   .cta-buttons a:hover {
     background-color: #0056b3;
+  }
+
+  #ret{
+    font-size: 50px;
+    border: 3px solid yellow;
   }
   
