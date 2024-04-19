@@ -1,0 +1,49 @@
+body{
+    background: linear-gradient(to left, #f500fd, #611111);
+    
+
+}
+
+
+
+
+
+
+
+
+
+#title{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+#point{
+    font-size: 30px;
+    color: chartreuse;
+    text-align: center;
+}
+
+.pic2{
+    width: 900px;
+    height: 400px;
+    margin-left: 250px;
+    
+}
+
+#plate{
+    text-align: center;
+    color: rgb(0, 0, 2);
+    border: 3px solid burlywood;
+    background-color: #00fd22;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 80px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#plate:hover{
+    background-color: rgba(0, 245, 245, 0.596);
+}
